@@ -42,6 +42,10 @@
 		{
 			"Name": "AppleImageUtils",
 			"Enabled": false
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
 		}
 	]
 }
